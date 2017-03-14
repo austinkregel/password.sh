@@ -26,4 +26,4 @@ function crypt_password($length)
 }
 //$arguments = array_splice($argv, 1, count($argv) - 1);
 list($command, $length) = $argv;
-echo crypt_password($length), crypt_password($length), "\n";
+echo crypt_password($length), "\n";
