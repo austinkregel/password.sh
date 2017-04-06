@@ -9,9 +9,15 @@ Please note that there will only be 1 script per language (for now). If you want
 # How do I use?
 _These scripts (thus far) are designed for *nix systems, so windows machines cannot use these at the moment._
 
-`~$ /bin/bash password.sh 32`
-`~$ /usr/bin/php password.php 32`
-`~$ /usr/bin/python password.py 32` 
+`~$ sh password.sh 32`
+
+`~$ php password.php 32`
+
+`~$ python password.py 32` 
 
 ect...
 
+## Assistance
+If you need help with a script please file an issue, and remember to make sure you're using the proper script for the programs you have installed..
+
+ie. Don't use the PHP script if you don't have PHP installed on your computer.
